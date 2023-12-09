@@ -5,6 +5,7 @@
 
 # Datos Utilizados:
 El conjunto de datos incluye información detallada de cada episodio desde la primera hasta la última temporada emitida. Contiene datos sobre la temporada, número de episodio, título, director, escritor, fecha de emisión original y audiencia en millones de espectadores en Estados Unidos.
+Dataset "The Walking Dead Episodes": https://www.kaggle.com/datasets/abdurrakibmollah/the-walking-dead-episodes (scrapeado de Wikipedia)
 
 # Preguntas Guía
 ¿Cómo ha evolucionado la popularidad de "The Walking Dead" a lo largo de las temporadas y episodios?
